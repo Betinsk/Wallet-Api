@@ -21,7 +21,6 @@ import com.wallet.service.impl.UserServiceImpl;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-@ActiveProfiles("test")
 public class UserServiceImplTest {
 	
 	@MockBean
